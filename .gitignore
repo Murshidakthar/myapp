@@ -1,0 +1,17 @@
+.env
+.env.*
+*.env
+
+__pycache__/
+*.pyc
+*.pyo
+
+.venv/
+venv/
+
+*.log
+
+postgres-data/
+
+.vscode/
+.idea/
